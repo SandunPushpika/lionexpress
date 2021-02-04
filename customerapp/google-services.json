@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439426961554",
+    "project_id": "lionexpress-9abbe",
+    "storage_bucket": "lionexpress-9abbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439426961554:android:00d1c4d085815cbc24164b",
+        "android_client_info": {
+          "package_name": "com.ourdevelops.ourjek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439426961554-s14v7hct68kqv0hactjcpmvm0dvn5mt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLHuv5ukpT_klq9ir9XMR6GzTAsfK7ZHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439426961554-s14v7hct68kqv0hactjcpmvm0dvn5mt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
